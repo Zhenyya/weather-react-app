@@ -1,0 +1,16 @@
+.DailyForecast {
+  text-align: center;
+  border: 2px solid #d0d5dc;
+  padding: 18px;
+  border-radius: 0.375rem;
+}
+
+.DailyForecast .DailyForecast-icon {
+  width: 52px;
+  height: 52px;
+}
+
+.MinTemperature {
+  opacity: 0.8;
+  margin-left: 5px;
+}
