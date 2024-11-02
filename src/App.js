@@ -7,7 +7,7 @@ function App() {
       <div className="container">
         <Weather defaultCity="London" />
         <footer>
-          This project was coded by Yevheniia Manko and is{" "}
+          This React-project was coded by Yevheniia Manko and is{" "}
           <a
             href="https://github.com/Zhenyya/forecast-react"
             target="_blank"
